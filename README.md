@@ -31,11 +31,6 @@ Passionate about building high-performance applications, optimizing backend syst
 ✔ **Efficient Backend Systems & APIs** – Optimized for performance and security  
 ✔ **Cloud Deployments & DevOps Automation** – Streamlining workflows and scaling applications  
 
-## 📈 Stats  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
 ## 📫 Let's Connect!  
 
 🔗 [Portfolio](https://www.jamelkhiareddine.com/)  
